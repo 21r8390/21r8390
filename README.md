@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @21r8390
 - 👀 I’m interested in C, C#, Java, SQL & HTML
-- 🌱 I’m currently learning JavaFX and C#
+- 🌱 I’m currently learning [.NET MAUI](https://github.com/dotnet/maui), [EF Core](https://github.com/dotnet/efcore) and [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 - 💞️ I’m looking to collaborate on a side hustle
 
 <!---
